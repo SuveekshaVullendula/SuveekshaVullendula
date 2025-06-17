@@ -5,13 +5,13 @@ I thrive on building impactful projects — from predictive models to interactiv
 Let's connect and innovate together! 🌟
 
 ---
-**About me **
+About me 
 ---
 **👩‍💻 Expertise:**
--💻 Experienced in Web Development using HTML, CSS, JavaScript, and the MERN stack  
--🐍 Proficient in Python, with a solid grasp of Data Structures & Algorithms and OOP
--🧠 Skilled in Machine Learning, with projects like Hill Valley Detection using Logistic Regression
--🗂️ Comfortable with MongoDB and MySQL for backend data management
+*💻 Experienced in `Web Development` using `HTML`, `CSS`, `JavaScript`, and the `MERN` stack  
+*🐍 Proficient in `Python`, with a solid grasp of `Data Structures & Algorithms` and `OOP`
+*🧠 Skilled in `Machine Learning`, with projects like Hill Valley Detection using Logistic Regression
+*🗂️ Comfortable with `MongoDB` and `MySQL` for backend data management
 
 **🛠️ Projects:**
 -🛒 Built a full-featured E-Commerce Website with search, filter, cart, and JWT-based authentication
