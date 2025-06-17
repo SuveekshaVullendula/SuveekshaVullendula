@@ -14,15 +14,29 @@ About me
 * 🗂️ Comfortable with `MongoDB` and `MySQL` for backend data management  
 
 **🛠️ Projects:**
-* 🛒 Built a full-featured E-Commerce Website with search, filter, cart, and JWT-based authentication  
-* 🌐 Created a responsive Portfolio Website showcasing my work, skills, and achievements  
-* 🔐 Developed a Password Generator and 🌡️ a Temperature Converter App in Python  
+* 🛒 Built a full-featured `E-Commerce Website` with search, filter, cart, and JWT-based authentication  
+* 🌐 Created a responsive `Portfolio Website` showcasing my work, skills, and achievements  
+* 🔐 Developed 🌡️ a `Temperature Converter` App using HTML and CSS.
 
 **🌐 Interests:**
-* 🏁 Passionate about Competitive Programming, actively practicing and participating in contests  
+* 🏁 Passionate about `Competitive Programming`, actively practicing and participating in contests  
 * 📊 Interested in artistry and designing  
 * 🎓 Love mentoring, helping peers through tech sessions and educational outreach  
 * 🧩 Always curious, always learning, always building!  
 
+---
+My Tech stack
+---
+🧑‍💻 Programming Languages
+* Python
+
+🎨 Frontend Development
+* HTML5 CSS3 JavaScript
+
+🤖 Web Development
+* MERN
+
+🗄️ Database
+* MySQL MongoDB
 
 
